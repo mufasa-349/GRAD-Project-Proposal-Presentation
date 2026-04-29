@@ -1,4 +1,4 @@
-Here is the slide titles and basic contents, image names and general structure of the presentation to create: I want you to make it more official if neccesary. Use bulletpoints instead of sentences. In paranthes sentences are points you need to be careful while creating.
+Here is the slide titles and basic contents, image names and general structure of the presentation to create: I want you to make it more official if neccesary. Use bulletpoints instead of sentences. In paranthes sentences are points you need to be careful while creating. You can find images under images folder in project directory
 
 Slides
 1. Title:
@@ -13,7 +13,7 @@ Slides
     Software based systems generally provides certain data, although the real data is contains reasonable amount of uncertainty, especially in spatio-temporal data. Our motivation is to visualize this uncertainty for better decision making processes. (A brief example can be made, Cursor you can create this yoruself, but include it in italic so that i can understand its your idea and check whether it is okey or not for our scenario)
 
 3. Related Works
-    (Cursor check pdfs under related-works part:
+    (To Cursor:
     
     Related Works section should be maximum 2 slides. Do not explain too many papers. Focus only on 3–4 key works that directly support our project title: “Visualizing Spatio-Temporal Uncertainty in High-Density Data.”
 
